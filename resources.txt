@@ -1,0 +1,16 @@
+https://www.w3schools.com/tags/tag_font.asp	front style
+https://www.w3schools.com/cssref/pr_text_color.asp	color tyle
+https://www.w3schools.com/cssref/pr_text_letter-spacing.asp	spacing style
+https://www.w3schools.com/html/html_filepaths.asp	link in photo
+https://www.w3schools.com/tags/tag_center.asp	center text
+https://stackoverflow.com/questions/19589802/how-to-make-a-div-or-a-href-to-align-center	center text
+https://www.w3schools.com/tags/tag_nav.asp	tag style
+https://www.computerhope.com/issues/ch001662.htm	space style
+https://www.w3schools.com/cssref/css3_pr_column-gap.asp	col style
+https://stackoverflow.com/questions/3593594/how-to-keep-the-header-static-always-on-top-while-scrolling	keep the bar all over the web
+https://www.codesdope.com/blog/article/how-to-create-a-digital-clock-using-javascript/	clock func
+https://www.w3schools.com/css/css_image_transparency.asp	bacground sryle
+https://www.youtube.com/watch?v=RbuUThzHRpc	digial clock
+https://www.w3schools.com/css/css_table.asp	table style
+https://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy	table style
+https://www.javatpoint.com/html-image	

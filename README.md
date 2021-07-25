@@ -1,0 +1,1 @@
+click on MySite.html in your computer.
